@@ -1,0 +1,15 @@
+# Requirements 
+
+
+Python >= 3.7
+
+Python Libraries
+
+Pandas
+Numpy
+Tkinter
+mlxtend
+threading
+time
+random
+pandastable
